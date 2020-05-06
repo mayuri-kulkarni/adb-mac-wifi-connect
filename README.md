@@ -1,5 +1,6 @@
 # adb-mac-wifi-connect
 Mac software to connect your android phone to android studio for debugging via ADB WiFi.
+
 ![adb](https://github.com/mayuri-kulkarni/adb-mac-wifi-connect/blob/master/Android%20Wifi%20Connect/Screenshot%202020-05-05%20at%2010.22.56%20PM.png)
 ## Steps use:
   1. copy 'ADB WiFi connect.app' file to your computer
