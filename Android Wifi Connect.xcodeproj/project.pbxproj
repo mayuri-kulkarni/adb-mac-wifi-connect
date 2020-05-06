@@ -11,6 +11,7 @@
 		E05D1E022452EA6F00100119 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E05D1E012452EA6F00100119 /* ViewController.swift */; };
 		E05D1E042452EA7000100119 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E05D1E032452EA7000100119 /* Assets.xcassets */; };
 		E05D1E072452EA7000100119 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E05D1E052452EA7000100119 /* Main.storyboard */; };
+		E0F88A7324633AAE00A9BE2C /* Screenshot 2020-05-05 at 10.22.56 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = E0F88A7224633AAE00A9BE2C /* Screenshot 2020-05-05 at 10.22.56 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		E05D1E062452EA7000100119 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E05D1E082452EA7000100119 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E05D1E092452EA7000100119 /* Android_Wifi_Connect.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Android_Wifi_Connect.entitlements; sourceTree = "<group>"; };
+		E0F88A7224633AAE00A9BE2C /* Screenshot 2020-05-05 at 10.22.56 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2020-05-05 at 10.22.56 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				E05D1E012452EA6F00100119 /* ViewController.swift */,
 				E05D1E032452EA7000100119 /* Assets.xcassets */,
 				E05D1E052452EA7000100119 /* Main.storyboard */,
+				E0F88A7224633AAE00A9BE2C /* Screenshot 2020-05-05 at 10.22.56 PM.png */,
 				E05D1E082452EA7000100119 /* Info.plist */,
 				E05D1E092452EA7000100119 /* Android_Wifi_Connect.entitlements */,
 			);
@@ -121,6 +124,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0F88A7324633AAE00A9BE2C /* Screenshot 2020-05-05 at 10.22.56 PM.png in Resources */,
 				E05D1E042452EA7000100119 /* Assets.xcassets in Resources */,
 				E05D1E072452EA7000100119 /* Main.storyboard in Resources */,
 			);
