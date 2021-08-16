@@ -2,7 +2,7 @@
 Mac software to connect your android phone to android studio for debugging via ADB WiFi.
 
 ![adb](https://github.com/mayuri-kulkarni/adb-mac-wifi-connect/blob/master/Android%20Wifi%20Connect/Screenshot%202020-05-05%20at%2010.22.56%20PM.png)
-## Steps use:
+## Steps use: [please let me know how can we get this running faster than going through all these steps 🙄]
   1. clone and run project in xcode , copy 'ADB WiFi connect.app' file to your computer
   2. run(double click) 'ADB WiFi connect.app'
   3. enter path where adb executable file exist
